@@ -1,0 +1,10 @@
+tvit x = 6
+tvit y = 1
+fra ( x > a )
+x >> 32 - 1 
+riptt x
+check ( x > 7 )
+riptt y
+
+
+
